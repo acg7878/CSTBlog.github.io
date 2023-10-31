@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>计维YinYin on 计算机维护队内部技术博客</title>
-        <link>https://github.com/acg7878/CSTBlog.github.io.git/tags/%E8%AE%A1%E7%BB%B4yinyin/</link>
+        <link>/tags/%E8%AE%A1%E7%BB%B4yinyin/</link>
         <description>Recent content in 计维YinYin on 计算机维护队内部技术博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/acg7878/CSTBlog.github.io.git/tags/%E8%AE%A1%E7%BB%B4yinyin/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E8%AE%A1%E7%BB%B4yinyin/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>从零开始的台式机装机教程</title>
-        <link>https://github.com/acg7878/CSTBlog.github.io.git/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8F%B0%E5%BC%8F%E6%9C%BA%E8%A3%85%E6%9C%BA%E6%95%99%E7%A8%8B/</link>
+        <link>/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8F%B0%E5%BC%8F%E6%9C%BA%E8%A3%85%E6%9C%BA%E6%95%99%E7%A8%8B/</link>
         <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/acg7878/CSTBlog.github.io.git/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8F%B0%E5%BC%8F%E6%9C%BA%E8%A3%85%E6%9C%BA%E6%95%99%E7%A8%8B/</guid>
+        <guid>/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8F%B0%E5%BC%8F%E6%9C%BA%E8%A3%85%E6%9C%BA%E6%95%99%E7%A8%8B/</guid>
         <description>&lt;h2 id=&#34;装机准备&#34;&gt;装机准备&lt;/h2&gt;
 &lt;p&gt;沉稳的心态&lt;/p&gt;
 &lt;p&gt;足够大的干净整洁空间，用来有序地放置各种物品&lt;/p&gt;

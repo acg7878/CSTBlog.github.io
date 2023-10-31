@@ -1,11 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="618e28fa-0976-4912-a2f8-bcb674b59c31" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="618e28fa-0976-4912-a2f8-bcb674b59c31" name="更改" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/ipv6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/ipv6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/ipv6/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/ipv6/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/ipv6/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/ipv6/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/oa系统/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/oa系统/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/oa系统/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/oa系统/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/oa系统/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/oa系统/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/office/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/office/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/office/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/office/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/office/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/office/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/windows/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/windows/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/windows/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/windows/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/windows/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/windows/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/台式机/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/台式机/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/台式机/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/台式机/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/台式机/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/台式机/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/拆机/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/拆机/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/拆机/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/拆机/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/拆机/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/拆机/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/校园网/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/校园网/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/校园网/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/校园网/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/校园网/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/校园网/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/硬件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/硬件/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/硬件/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/硬件/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/硬件/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/硬件/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/网络/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/网络/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/网络/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/网络/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/网络/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/网络/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/计维手册预备役/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/计维手册预备役/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/计维手册预备役/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/计维手册预备役/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/计维手册预备役/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/计维手册预备役/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/路由器/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/路由器/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/路由器/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/路由器/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/路由器/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/路由器/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/软件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/软件/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/软件/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/软件/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/软件/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/软件/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/软件/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/软件/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/oa系统通用解决方案/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/oa系统通用解决方案/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/office-tool-plus-使用教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/office-tool-plus-使用教程/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/windows系统的封装测试/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/windows系统的封装测试/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/从零开始的台式机装机教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/从零开始的台式机装机教程/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/关于老旧系统winxp等浏览器网络访问证书的问题/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/关于老旧系统winxp等浏览器网络访问证书的问题/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/华农校园网指北/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/华农校园网指北/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/常用cmd命令整理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/常用cmd命令整理/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/计维计划通拆机图文教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/计维计划通拆机图文教程/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/雷区机型一览持续更新/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/雷区机型一览持续更新/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/search/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/维叔/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/维叔/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/维叔/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/维叔/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/维叔/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/维叔/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维feifei/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维feifei/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维feifei/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维feifei/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维feifei/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维feifei/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维longlong/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维longlong/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维longlong/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维longlong/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维longlong/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维longlong/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维qunqun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维qunqun/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维qunqun/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维qunqun/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维qunqun/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维qunqun/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维yinyin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维yinyin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维yinyin/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维yinyin/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维yinyin/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维yinyin/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维夏雅各/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维夏雅各/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维夏雅各/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维夏雅各/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维夏雅各/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维夏雅各/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维樊杰坤/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维樊杰坤/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维樊杰坤/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维樊杰坤/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维樊杰坤/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维樊杰坤/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维花q渔夫/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维花q渔夫/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维花q渔夫/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维花q渔夫/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维花q渔夫/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维花q渔夫/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维薛佳慧/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维薛佳慧/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维薛佳慧/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维薛佳慧/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维薛佳慧/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维薛佳慧/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维黎德成/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维黎德成/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维黎德成/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维黎德成/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/计维黎德成/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/计维黎德成/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/关于/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/关于/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,27 +115,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2XWwUd2q94xgL9q5bblFnm2qzYo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/BLOG/CST-SCAU/Jiwei-TechTips_Stack/docs",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/BLOG/CST-SCAU/Jiwei-TechTips_Stack/docs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -43,10 +150,25 @@
       <option name="presentableId" value="Default" />
       <updated>1698758161084</updated>
       <workItem from="1698758162093" duration="213000" />
+      <workItem from="1698758390582" duration="764000" />
+      <workItem from="1698764932643" duration="50000" />
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <option name="closed" value="true" />
+      <created>1698758440692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698758440692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
 </project>

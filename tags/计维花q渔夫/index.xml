@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>计维花Q渔夫 on 计算机维护队内部技术博客</title>
-        <link>https://github.com/acg7878/CSTBlog.github.io.git/tags/%E8%AE%A1%E7%BB%B4%E8%8A%B1q%E6%B8%94%E5%A4%AB/</link>
+        <link>/tags/%E8%AE%A1%E7%BB%B4%E8%8A%B1q%E6%B8%94%E5%A4%AB/</link>
         <description>Recent content in 计维花Q渔夫 on 计算机维护队内部技术博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/acg7878/CSTBlog.github.io.git/tags/%E8%AE%A1%E7%BB%B4%E8%8A%B1q%E6%B8%94%E5%A4%AB/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E8%AE%A1%E7%BB%B4%E8%8A%B1q%E6%B8%94%E5%A4%AB/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>华农校园网指北</title>
-        <link>https://github.com/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/</link>
+        <link>/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/</link>
         <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/</guid>
+        <guid>/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/</guid>
         <description>&lt;h3 id=&#34;目录喵&#34;&gt;目录喵&lt;/h3&gt;
 &lt;p&gt;一. 华农校园网的事实&lt;/p&gt;
 &lt;p&gt;二. 这篇指北要说什么&lt;/p&gt;
@@ -68,10 +68,10 @@
 &lt;p&gt;安装完成后，进入这个界面&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/1.png&#34;
 	width=&#34;380&#34;
 	height=&#34;380&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/1_hu9b197a2f0e2b8472482bb806244c4453_19213_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/1_hu9b197a2f0e2b8472482bb806244c4453_19213_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/1_hu9b197a2f0e2b8472482bb806244c4453_19213_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/1_hu9b197a2f0e2b8472482bb806244c4453_19213_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;锐捷认证&#34;
@@ -103,10 +103,10 @@
 &lt;p&gt;这里用win10演示，其他系统可以自行百度了解&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;1. 点击开始菜单，打开设置&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/2.png&#34;
 	width=&#34;243&#34;
 	height=&#34;370&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/2_hu2169699e2c5f5af4683c400c080a0385_87704_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/2_hu2169699e2c5f5af4683c400c080a0385_87704_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/2_hu2169699e2c5f5af4683c400c080a0385_87704_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/2_hu2169699e2c5f5af4683c400c080a0385_87704_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;设置&#34;
@@ -118,10 +118,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. 点击网络设置&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/3.png&#34;
 	width=&#34;1533&#34;
 	height=&#34;570&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/3_hu93f524558c6062cf16c0054b0732d1fd_42836_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/3_hu93f524558c6062cf16c0054b0732d1fd_42836_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/3_hu93f524558c6062cf16c0054b0732d1fd_42836_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/3_hu93f524558c6062cf16c0054b0732d1fd_42836_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;点击网络设置&#34;
@@ -133,10 +133,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3. 选择你当前使用的网络，若是使用WiFi则选择&lt;code&gt;WLAN&lt;/code&gt;、若是使用有线网，则选择&lt;code&gt;以太网&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/4.png&#34;
 	width=&#34;783&#34;
 	height=&#34;922&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/4_hue392bac7218c5440a55afa7a2b74d0ac_299625_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/4_hue392bac7218c5440a55afa7a2b74d0ac_299625_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/4_hue392bac7218c5440a55afa7a2b74d0ac_299625_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/4_hue392bac7218c5440a55afa7a2b74d0ac_299625_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;进入对应网络类型设置&#34;
@@ -148,10 +148,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;4. 点击对应的网络&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/5.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/5.png&#34;
 	width=&#34;837&#34;
 	height=&#34;356&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/5_hu329d61f027d77bcbf3dbaa117847efb6_124984_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/5_hu329d61f027d77bcbf3dbaa117847efb6_124984_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/5_hu329d61f027d77bcbf3dbaa117847efb6_124984_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/5_hu329d61f027d77bcbf3dbaa117847efb6_124984_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;WLAN&#34;
@@ -162,10 +162,10 @@
 		data-flex-basis=&#34;564px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/6.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/6.png&#34;
 	width=&#34;812&#34;
 	height=&#34;345&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/6_hu654bd8d40f289acfc565387d878494c6_113577_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/6_hu654bd8d40f289acfc565387d878494c6_113577_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/6_hu654bd8d40f289acfc565387d878494c6_113577_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/6_hu654bd8d40f289acfc565387d878494c6_113577_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;以太网&#34;
@@ -177,10 +177,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;5. 进入以后, 点击编辑IP设置&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/7.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/7.png&#34;
 	width=&#34;350&#34;
 	height=&#34;147&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/7_hu0da3bbd223a548b0678fe850eb49514c_3488_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/7_hu0da3bbd223a548b0678fe850eb49514c_3488_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/7_hu0da3bbd223a548b0678fe850eb49514c_3488_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/7_hu0da3bbd223a548b0678fe850eb49514c_3488_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;IP设置&#34;
@@ -192,10 +192,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;6. 将设置模式改为手动, 并填入DNS服务器地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/8.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/8.png&#34;
 	width=&#34;390&#34;
 	height=&#34;755&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/8_huf98cb1aae73f28ab99180866ff3ad388_13212_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/8_huf98cb1aae73f28ab99180866ff3ad388_13212_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/8_huf98cb1aae73f28ab99180866ff3ad388_13212_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/8_huf98cb1aae73f28ab99180866ff3ad388_13212_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;IP设置&#34;
@@ -341,10 +341,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 &lt;p&gt;进入网络&amp;mdash;接口,将WAN的DNS设置为如图所示:(都是修改为2001:da8:2004:1000:202:116:160:33)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/15.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/15.png&#34;
 	width=&#34;930&#34;
 	height=&#34;274&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/15_hufdd7ec8fdeca5be1aa4235ff869ccde5_16435_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/15_hufdd7ec8fdeca5be1aa4235ff869ccde5_16435_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/15_hufdd7ec8fdeca5be1aa4235ff869ccde5_16435_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/15_hufdd7ec8fdeca5be1aa4235ff869ccde5_16435_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改后的图片&#34;
@@ -356,10 +356,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;将WAN6的DNS设置为图下所示:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/16.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/16.png&#34;
 	width=&#34;855&#34;
 	height=&#34;316&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/16_hu12fe1aaf71cdcce79e0b65b5b3381e28_20954_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/16_hu12fe1aaf71cdcce79e0b65b5b3381e28_20954_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/16_hu12fe1aaf71cdcce79e0b65b5b3381e28_20954_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/16_hu12fe1aaf71cdcce79e0b65b5b3381e28_20954_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改完成后的图片&#34;
@@ -371,10 +371,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;将LAN的DNS设置为图下所示:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/17.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/17.png&#34;
 	width=&#34;967&#34;
 	height=&#34;186&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/17_hue9e2ce60ffee20ed99b471d7eb509fc8_11668_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/17_hue9e2ce60ffee20ed99b471d7eb509fc8_11668_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/17_hue9e2ce60ffee20ed99b471d7eb509fc8_11668_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/17_hue9e2ce60ffee20ed99b471d7eb509fc8_11668_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改完成后的图片&#34;
@@ -387,10 +387,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 &gt;&lt;/p&gt;
 &lt;p&gt;修改完成后路由器才可正常地解析IPv6,因为未知原因,202.116.160.33无法正常地解析IPv6地址.&lt;/p&gt;
 &lt;p&gt;然后在LAN的DHCP服务器&amp;mdash;IPv6设置里面修改为如图所示:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/18.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/18.png&#34;
 	width=&#34;1101&#34;
 	height=&#34;1020&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/18_hubd5fa05a2ad8f3d81a712bca28b86f65_73919_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/18_hubd5fa05a2ad8f3d81a712bca28b86f65_73919_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/18_hubd5fa05a2ad8f3d81a712bca28b86f65_73919_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/18_hubd5fa05a2ad8f3d81a712bca28b86f65_73919_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;图片&#34;
@@ -448,10 +448,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;进入&lt;code&gt;网络&lt;/code&gt;&amp;ndash;&amp;gt;&lt;code&gt;交换机&lt;/code&gt;, 修改&lt;code&gt;Lan1&lt;/code&gt;参数如下并保存：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/9.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/9.png&#34;
 	width=&#34;2136&#34;
 	height=&#34;1068&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/9_hubb546ba4a5483c204cecf3667b452a1a_88185_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/9_hubb546ba4a5483c204cecf3667b452a1a_88185_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/9_hubb546ba4a5483c204cecf3667b452a1a_88185_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/9_hubb546ba4a5483c204cecf3667b452a1a_88185_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改后的图片&#34;
@@ -525,10 +525,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 &lt;blockquote&gt;
 &lt;p&gt;新增接口如下（IPv4与IPv6的配置略有不同）&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/10.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/10.png&#34;
 	width=&#34;1676&#34;
 	height=&#34;783&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/10_hu3c6e02b36271a8f4a0e08786150b4d50_40305_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/10_hu3c6e02b36271a8f4a0e08786150b4d50_40305_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/10_hu3c6e02b36271a8f4a0e08786150b4d50_40305_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/10_hu3c6e02b36271a8f4a0e08786150b4d50_40305_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ipv4&#34;
@@ -539,10 +539,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 		data-flex-basis=&#34;513px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/11.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/11.png&#34;
 	width=&#34;1412&#34;
 	height=&#34;698&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/11_hu98b8b58308143b48edfdf6541d6be27d_37124_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/11_hu98b8b58308143b48edfdf6541d6be27d_37124_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/11_hu98b8b58308143b48edfdf6541d6be27d_37124_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/11_hu98b8b58308143b48edfdf6541d6be27d_37124_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ipv6&#34;
@@ -554,10 +554,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;成员&lt;/strong&gt;如下图:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/12.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/12.png&#34;
 	width=&#34;2165&#34;
 	height=&#34;984&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/12_hu4ae5bd3aa9ecff0cf28c3919a51a407a_90782_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/12_hu4ae5bd3aa9ecff0cf28c3919a51a407a_90782_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/12_hu4ae5bd3aa9ecff0cf28c3919a51a407a_90782_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/12_hu4ae5bd3aa9ecff0cf28c3919a51a407a_90782_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改后&#34;
@@ -569,10 +569,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;策略&lt;/strong&gt;如下:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/13.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/13.png&#34;
 	width=&#34;2135&#34;
 	height=&#34;641&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/13_huf56e9f296b6afaa77b3e649e465a0832_88781_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/13_huf56e9f296b6afaa77b3e649e465a0832_88781_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/13_huf56e9f296b6afaa77b3e649e465a0832_88781_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/13_huf56e9f296b6afaa77b3e649e465a0832_88781_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改后&#34;
@@ -584,10 +584,10 @@ IPv6: &lt;code&gt;2001:da8:2004:1000:202:116:160:33&lt;/code&gt;(不设置此dns
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;规则&lt;/strong&gt;如下（可以删除HTTPS规则，在校园网环境下并不会有什么影响）：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/14.png&#34;
+&lt;p&gt;&lt;img src=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/14.png&#34;
 	width=&#34;2163&#34;
 	height=&#34;1010&#34;
-	srcset=&#34;https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/14_hueeb7402f3c8f9de4c08d36fa0921a688_116966_480x0_resize_box_3.png 480w, https://github.com/acg7878/CSTBlog.github.io.git/acg7878/CSTBlog.github.io.git/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/14_hueeb7402f3c8f9de4c08d36fa0921a688_116966_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;/p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/14_hueeb7402f3c8f9de4c08d36fa0921a688_116966_480x0_resize_box_3.png 480w, /p/%E5%8D%8E%E5%86%9C%E6%A0%A1%E5%9B%AD%E7%BD%91%E6%8C%87%E5%8C%97/14_hueeb7402f3c8f9de4c08d36fa0921a688_116966_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改后&#34;
